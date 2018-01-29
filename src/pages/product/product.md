@@ -1,9 +1,9 @@
 ---
-templateKey: 'product-page'
+templateKey: product-page
 path: /products
 title: Our Coffee
 image: /img/jumbotron.jpg
-heading: What we offer
+heading: WhHeading  Descripat we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -97,5 +97,6 @@ pricing:
         - Green or roasted beans
         - Unlimited varieties
       plan: Custom
-      price: '??'
+      price: '??vsdfsdfsdf'
 ---
+
